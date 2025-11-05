@@ -1,0 +1,15 @@
+export enum KeyPress {
+  ENTER = 'Enter',
+  ESCAPE = 'Escape',
+  TAB = 'Tab',
+  BACKSPACE = 'Backspace',
+  DELETE = 'Delete',
+  ARROW_UP = 'ArrowUp',
+  ARROW_DOWN = 'ArrowDown',
+  ARROW_LEFT = 'ArrowLeft',
+  ARROW_RIGHT = 'ArrowRight',
+  CONTROL_A = 'Control+A',
+  CONTROL_C = 'Control+C',
+  CONTROL_V = 'Control+V',
+  SHIFT_TAB = 'Shift+Tab',
+}
